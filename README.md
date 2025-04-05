@@ -1,7 +1,7 @@
 <div align="center">
   <h1 id="top">南京大学数值天气预报课程作业<br>NWP Course Projects @ Nanjing University</h1>
   
-  [![中文](#chinese) | [English](#english)  
+  [中文版](#chinese) | [English Version](#english) 
   ![GitHub](https://img.shields.io/badge/Python-3.8%2B-blue) 
   ![GitHub](https://img.shields.io/badge/Field-Atmospheric%20Science-brightgreen)
 </div>
@@ -35,7 +35,7 @@ This repository contains course projects and materials from **Numerical Weather 
 
 ---
 
-##<span id="english">English Version</span> ↑Back to Top
+## <span id="english">English Version</span> [↑Back to Top](#top)
 
 ### Project Overview
 - This repo shares **Numerical Weather Prediction (NWP)** course assignments from Nanjing University.
