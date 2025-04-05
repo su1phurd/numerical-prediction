@@ -64,5 +64,3 @@ This repository contains course projects and materials from **Numerical Weather 
 *欢迎提交 Issue 或 PR 补充更多数值预报案例！*  
 *Feel free to open issues or PRs to add more NWP examples!*
 ```
-
----
