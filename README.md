@@ -1,9 +1,9 @@
 <div align="center">
   <h1 id="top">南京大学数值天气预报课程作业<br>NWP Course Projects @ Nanjing University</h1>
   
-  [中文版](#chinese) | [English Version](#english) 
-  ![GitHub](https://img.shields.io/badge/Python-3.8%2B-blue) 
-  ![GitHub](https://img.shields.io/badge/Field-Atmospheric%20Science-brightgreen)
+[中文版](#chinese) | [English Version](#english)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Academic](https://img.shields.io/badge/Academic-NWP-orange)
+
 </div>
 
 ---
