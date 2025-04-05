@@ -31,7 +31,7 @@ This repository contains course projects and materials from **Numerical Weather 
 ### 版权说明
 - 代码部分为课程作业原创，**禁止直接抄袭**。
 - 课程网站：http://112.124.40.88:5501
-- 课程讲义、课程网站成果归南京大学及授课教师所有，**请勿公开传播**。
+- 课程讲义、课程网站成果归南京大学及授课教师所有，**请勿用于商业用途**。
 
 ---
 
@@ -53,7 +53,7 @@ This repository contains course projects and materials from **Numerical Weather 
 ### License
 - Code is original for course assignments (**Do not plagiarize**).
 - Course website: http://112.124.40.88:5501
-- Lecture materials and website content belong exclusively to Nanjing University and course instructors. Redistribution prohibited.
+- Lecture materials and website content belong exclusively to Nanjing University and course instructors. **Commercial use prohibited**.
 
 ---
 
